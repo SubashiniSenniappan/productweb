@@ -71,14 +71,14 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>Deeps Fancy Universe</h1>
+                    <h1>Sparkle and Shine</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
                     <marquee><b>Feel BEAUTY through our Store</b></marquee>
                     <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Fancy Store</p>
                     </div>
-                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">Deeps Fancy Universe</span>
+                    <p>Buy Fancy items and Cosmetics online for Women from <span style="background-color:lime">Sparkle and Shine</span>
                          for Rs.100 | Buy cosmetics in ONE SIZE online | 7 Days Returns | Trend setting models | And much more</p>
                     <br>
                 <center>
@@ -93,7 +93,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Deepika Srinivasan</footer></div>
+                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
             </div>
         </div>
     </body>
@@ -296,11 +296,11 @@ products.html
                     <div class="l6"><p align="center"><b>Primer<br> Price: 5999.00</b><br><br><br><br></p></div>
          
                 </div>
-                <div class="bot"><p>To Order Online: Call 90 80 70 2009</p></div>
+                <div class="bot"><p>To Order Online: Call 98 78 70 7889</p></div>
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Deepika Srinivasan</footer></div>
+                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
             </div>
         </div>
     </body>
@@ -344,7 +344,7 @@ people.html
             margin-right:auto;
         }
         .ceoph{
-            background-image: url(/static/images/P1.jpg);
+            background-image: url(/static/images/pic1.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -364,7 +364,7 @@ people.html
             
         }
         .manph1{
-            background-image: url(/static/images/P2.jpg);
+            background-image: url(/static/images/pic2.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -382,7 +382,7 @@ people.html
             
         }
         .manph2{
-            background-image: url(/static/images/P3.jpg);
+            background-image: url(/static/images/pic4.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -402,7 +402,7 @@ people.html
         }
         
         .amph1{
-            background-image: url(/static/images/P4.jpg);
+            background-image: url(/static/images/pic4g.htm);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -422,7 +422,7 @@ people.html
         }
 
         .amph2{
-            background-image: url(/static/images/P6.jpg);
+            background-image: url(/static/images/pic5g.htm);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -441,7 +441,7 @@ people.html
             text-align:center;
         }
         .amph3{
-            background-image: url(/static/images/P5.jpg);
+            background-image: url(/static/images/pic6.jpg);
             background-size: 250px;
             background-position-x: center;
             background-repeat: no-repeat;
@@ -487,28 +487,28 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Deepika Srinivasan</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>Praisey Solomon</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
                     </div>
                     <div class="manph1"></div>
-                    <div class="man1"><p align="center"><b><h2>Vasundra Sri</h2></b></p></div>
+                    <div class="man1"><p align="center"><b><h2>Anto Jessi</h2></b></p></div>
                     <div class="manph2"></div>
-                    <div class="man2"><p><b><h2>Bolisetti Sanjitha</h2></b></p></div>
+                    <div class="man2"><p><b><h2>Sandhya Balamurali</h2></b></p></div>
                     <br>
                     <div class="text"><p><b><u>Managers</u></b></p></div><br>
                     <div class="amph1"></div>
-                    <div class="am1"><p align="center"><b><h2>Abinaya</h2></b></p></div>
+                    <div class="am1"><p align="center"><b><h2>Narthika</h2></b></p></div>
                     <div class="amph2"></div>
-                    <div class="am2"><p align="center"><b><h2>Atchaya</h2></b></p></div>
+                    <div class="am2"><p align="center"><b><h2>Nithyaa Sri Saravanan</h2></b></p></div>
                     <div class="amph3"></div>
-                    <div class="am3"><p align="center"><b><h2>Divya</h2></b></p></div><br>
+                    <div class="am3"><p align="center"><b><h2>Bindhya Balamurali</h2></b></p></div><br>
                     <div class="text">Thank you so much for your kind support!<br>Hope our products had made you more B-E-A-UTIFUL!</div>
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Deepika Srinivasan</footer></div>
+                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
             </div>
         </div>
     </body>
@@ -564,26 +564,26 @@ contact.html
                     </div>
                     <b><h2>Contact Information:</h2></b>
                     <p><b>&emsp;&ensp;Address:</b>
-                        Guduvancherry, Chennai, TamilNadu, India.
+                        Kancheepuram, Chennai, TamilNadu, India.
                     </p>
                     <ul>
                         <li><b>Landline:</b> 12345678</li>
                         <li><b>Mobile</b>: 90 80 70 2009</li>
-                        <li><b>Facebook</b>: fb/deepsfancy</li>
-                        <li><b>Email Id:</b>deeps@fancyuniv.com</li>
+                        <li><b>Facebook</b>: fb/sparkleshine</li>
+                        <li><b>Email Id:</b>praise@sparkleshine.com</li>
                     </ul>
                     <div style="text-align: center;color:violet;font-size:20px;"><b>Use our services and Beautify Yourself!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Deepika Srinivasan</footer></div>
+                Copyright &copy;2023 Developed by Praisey Solomon</footer></div>
             </div>
         </div>
     </body>
 </html>
 
-styles.css
+style.css
 
         .home{
             height: 700px;
@@ -717,14 +717,16 @@ styles.css
 
         }
 ```
+
 ## Output:
-![Output](./out1.png)
-![Output](./out2.png)
-![Output](./out3.png)
-![Output](./out4.png)
+![out1](./out1.png)
+![out1](./out1.png)
+![out1](./out1.png)
+![out1](./out1.png)
+
 
 ## HTML Validator
-![Output](./valid.png)
+![out1](./out1.png)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
